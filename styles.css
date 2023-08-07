@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('podcasts-bg.png');
+    background-size: cover;
+    height: 40vh;
+}
+
+.podcast-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 31px;
+    font-weight: 500;
+    padding: 18px;
+}
+
+.podcast-container {
+    padding: 18px;
+}
+
+.eps-card {
+    text-align: center;
+    margin: 10px;
+}
+
+.img {
+    width: 200px;
+    height: 155px;
+    margin-top: 6px;
+}
+
+.names {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.episodes {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+/***************PAGE 2 header*****************/
+.color-card {
+    background-color: #151765;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding-left: 20px;
+    padding-top: 28px;
+    padding-bottom: 18px;
+    padding-right: 21px;
+}
+
+.color-card-container {
+    margin-top: 7px;
+}
+
+.color-card-title {
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.color-card-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/*************page 2 footer**************/
+.normal-card {
+    padding: 16px;
+}
+
+.normal-card-container {
+    margin-left: 8px;
+    margin-top: 2px;
+    font-family: "Roboto";
+}
+
+.normal-card-title {
+    font-size: 15px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.normal-card-desc {
+    font-size: 13px;
+    color: #5a7184;
+}
+
+.normal-card-mins {
+    font-size: 10px;
+    color: #151765;
+}
+
+.button-end {
+    text-align: right;
+    margin: 20px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    border-radius: 25px;
+    width: 85px;
+    height: 35px;
+}
